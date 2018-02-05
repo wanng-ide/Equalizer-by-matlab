@@ -1,4 +1,7 @@
-Introduction:
+
+This is my final report of course "Acoustic Systems".
+
+Introduction of code:
 
 The first thing to use this equalizer is push button "input original sound".
 And then, the waveform will be displayed.
